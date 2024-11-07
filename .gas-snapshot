@@ -1,0 +1,4 @@
+DummyContractTest:testCreateDummyStructFull() (gas: 152516)
+DummyContractTest:testCreateDummyStructWithDefaults() (gas: 132004)
+DummyContractTest:testUpdateDummyStructFull() (gas: 159160)
+DummyContractTest:testUpdateDummyStructWithDefaults() (gas: 122594)
